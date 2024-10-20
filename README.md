@@ -1,2 +1,7 @@
-# ERUEmergencyApp
-This app was created to help Emergency Response Unit in Lebanon to gather data and information in the crisis of war that happened this year
+# ERU Emergency APP
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.

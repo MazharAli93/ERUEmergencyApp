@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117958515496",
+    "project_id": "eru-emergency-902d9",
+    "storage_bucket": "eru-emergency-902d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117958515496:android:c56b82f48d4e4b8fdd4e1d",
+        "android_client_info": {
+          "package_name": "com.CaritasYouth.erudata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGEZ0aHDUzoNYlt-56j3rVV8Ug2b3zepE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
